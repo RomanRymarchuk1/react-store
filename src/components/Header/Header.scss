@@ -1,0 +1,27 @@
+.header{
+    position:sticky ;
+    z-index: 1;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+
+.header__nav--list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.header__nav--list li{
+    padding: 0 20px;
+}
+
+
+.header__favorite--link, .header__cart--link, .header__store--link{
+    text-decoration: none;
+    color: rgb(38, 38, 38);
+}

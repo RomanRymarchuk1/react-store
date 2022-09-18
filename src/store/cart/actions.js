@@ -1,0 +1,6 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const SET_CART_COUNT = 'SET_CART_COUNT'
+export const INCREMENT = 'INCREMENT'
+export const DICREMENT = 'DICREMENT'
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART'
+export const CLEAN_CART = 'CLEAN_CART'
