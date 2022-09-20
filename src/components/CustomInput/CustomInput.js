@@ -1,6 +1,7 @@
-import React, { memo } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import { useField } from 'formik';
+import "./CustomInput.scss"
 
 const CustomInput = (props) => {
 
